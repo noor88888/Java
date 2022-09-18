@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+G:\Education\Interview programs 2022\Duplicate Programs\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3011209426.index
+3656853649.index
+696616623.index
